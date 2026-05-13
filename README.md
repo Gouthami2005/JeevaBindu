@@ -36,12 +36,12 @@ The application focuses on minimizing emergency response time through location-b
 ## Technical Stack
 
  Technology & Purpose 
- Kotlin - Core Android development 
- Jetpack Compose - Modern declarative UI framework 
- Firebase Authentication - User authentication 
- Firebase Firestore - Real-time cloud database 
- Material Design 3 - UI/UX components 
- Android Studio - Development environment 
+ 1) Kotlin - Core Android development 
+ 2) Jetpack Compose - Modern declarative UI framework 
+ 3) Firebase Authentication - User authentication 
+ 4) Firebase Firestore - Real-time cloud database 
+ 5) Material Design 3 - UI/UX components 
+ 6) Android Studio - Development environment 
 
 ## System Modules
 - Authentication Module
