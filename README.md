@@ -50,7 +50,7 @@ The application focuses on minimizing emergency response time through location-b
 - Notification Module
 - Donation Tracking Module
 - Response Coordination Module
-- 
+  
 ## Project Objective
 To develop a scalable and efficient emergency blood donation platform capable of improving donor coordination, reducing emergency response delays, and strengthening community-based healthcare support systems.
 
